@@ -1,0 +1,156 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+header{
+	width: 100%;
+	height: 70px;
+	background:;
+	border-bottom: 1px solid #EAEAEA;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+
+.logo{
+	width: 7%;
+	padding-left: 30px;
+	cursor: pointer;
+	
+	
+}
+
+
+nav, ul, li{
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: bold;
+	color: #4299FF;
+	letter-spacing: 1px;
+	list-style: none;
+	text-decoration: none;
+	justify-content: space-between;
+	display: inline-block;
+	padding-right: 12px;
+	cursor: pointer;
+
+}
+
+.hero{
+	width: 50%;
+	margin-left: 25%;
+}
+
+.main1 {
+	width: 100%;
+	height: auto;
+	/*background: #F7F7F7;*/
+	/*margin-top: 20px;*/
+
+}
+
+.main1 h1{
+	font-family: Arial;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+	color: #4299FF;
+}
+
+.main1 article{
+	font-family: Arial;
+	font-weight: normal;
+	padding-left: 5%;
+	padding-right: 5%;
+
+	
+}
+
+.feture1{
+	width: 100%;
+	margin-top: 8px;
+	margin-bottom: 5px;
+}
+
+.main2{
+	height: auto;
+	overflow: hidden;
+
+}
+
+.main2 h1{
+	font-family: Arial;
+	color: #4299FF;
+	}
+
+.main2 article{
+	font-family: Arial;
+
+}
+
+.blog1{
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+
+}
+
+.feture2{
+width: 100%;
+}
+
+.blog2{
+	width: 40%;
+	float: right;
+	margin-right: 5%;
+	overflow: hidden;
+}
+
+
+.main3{
+	height: auto;
+	overflow: hidden;
+}
+
+
+
+.blog{
+	margin-left: 5%;
+	font-family: Arial;
+	float: left;
+}
+
+.main3 article{
+	padding-top: 10px;
+}
+
+.b1{
+	width: 26.5%;
+}
+
+.b2{
+	width: 26.5%;
+}
+
+.b3{
+	width: 26.5%;
+}
+
+footer{
+	width: 100%;
+	height: 50px;
+	background: #4299FF;
+	margin-top: 10px;
+	
+}
+
+footer p{
+	text-align: center;
+	padding-top: 20px;
+	color: #7DD7FF;
+
+}
+
